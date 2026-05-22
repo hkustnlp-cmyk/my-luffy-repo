@@ -12,6 +12,7 @@ tests/
   test_utils.py  - Test files with TODOs
 ```
 
+### 📝 Complete TODO List
 ## TODO List
 
 ### Completed Tasks
