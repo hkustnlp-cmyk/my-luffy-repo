@@ -13,13 +13,8 @@ tests/
 ```
 
 ### 📝 Complete TODO List
-## TODO List
 
-### Completed Tasks
-- [x] Initial repository setup
-- [x] Created src/utils.py with utility functions
-- [x] Created src/models.py with data models
-- [x] Created tests/test_utils.py with test cases
+## TODO List
 
 ### Pending Tasks
 - [ ] Implement password hashing in utils.py
