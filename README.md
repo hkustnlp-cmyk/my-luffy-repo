@@ -17,12 +17,12 @@ tests/
 ## TODO List
 
 ### Pending Tasks
-- [ ] Implement password hashing in utils.py
-- [ ] Add logging to all functions
-- [ ] Create User model in models.py
 - [ ] Add database migration support
-- [ ] Write tests for hash_password
 - [ ] Add integration tests
+- [ ] Create User model in models.py
+- [ ] Implement password hashing in utils.py
+- [ ] Write tests for hash_password
+- [ ] Add logging to all functions
 
 ---
 
