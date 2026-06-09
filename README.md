@@ -26,4 +26,4 @@ tests/
 
 ---
 
-*This repository follows the TODO management convention from the LUFFY project.*
+*This repository follows the TODO management convention from the LUFFY project.
